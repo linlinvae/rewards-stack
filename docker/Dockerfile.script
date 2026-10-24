@@ -1,0 +1,14 @@
+ARG SCRIPT_BASE_IMAGE
+FROM ${SCRIPT_BASE_IMAGE}
+COPY --chmod=644 docker/redact.mjs /stack/redact.mjs
+COPY --chmod=644 docker/browser-startup-guard.mjs /stack/browser-startup-guard.mjs
+COPY --chmod=644 docker/account-manager.mjs docker/install-account-ui.mjs /stack/
+RUN chmod 755 /stack && node /stack/install-account-ui.mjs script
+COPY --chmod=644 docker/login-broker.mjs docker/login-client.cjs docker/install-web-login.mjs /stack/
+RUN node /stack/install-web-login.mjs script
+COPY --chmod=644 docker/rewards-reliability.cjs docker/rewards-reliability-lock.json docker/install-rewards-reliability.mjs /stack/
+RUN node /stack/install-rewards-reliability.mjs script
+COPY --chmod=644 scripts/nas-rewards-interface-check.cjs /stack/nas-rewards-interface-check.cjs
+COPY --chmod=644 scripts/probe.mjs /stack/probe.mjs
+COPY --chmod=755 docker/script-entrypoint.sh /stack/script-entrypoint.sh
+ENTRYPOINT ["/stack/script-entrypoint.sh"]

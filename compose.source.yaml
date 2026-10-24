@@ -1,0 +1,10 @@
+# Fallback base-image builds. Then main Compose layers the same guards on top.
+services:
+  script-base:
+    image: rewards-stack-script-base:d0f07d74a0ed
+    build:
+      context: ./upstream/script
+  dashboard-base:
+    image: rewards-stack-dashboard-base:4a81f9f3bd2a
+    build:
+      context: ./upstream/dashboard/rewards-dashboard

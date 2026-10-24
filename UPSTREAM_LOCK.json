@@ -1,0 +1,17 @@
+{
+  "checkedDate": "2026-10-14",
+  "script": {
+    "repository": "https://github.com/TheNetsky/Microsoft-Rewards-Script",
+    "branch": "v4",
+    "sourceCommit": "d0f07d74a0ed4dda127855d6e3dde98bf4c89d6e",
+    "imageVersion": "4.3.2",
+    "baseImage": "ghcr.io/thenetsky/microsoft-rewards-script@sha256:e0fa6fbb8cf3cb5b327ab1e54c25e83266ccb450e543db69fc7cbc828e6826e2"
+  },
+  "dashboard": {
+    "repository": "https://github.com/mgrimace/rewards-dashboard",
+    "sourceCommit": "4a81f9f3bd2aacce59b9cda6377562721760d854",
+    "imageVersion": "v1.3.9",
+    "baseImage": "ghcr.io/mgrimace/rewards-dashboard@sha256:b0363471e6a17323dc8a3a61616c4c8e4f47a8e4cdd897e9b84b304922b95e59"
+  },
+  "note": "Source fallback commits are later than the image builds. Both application paths tested locally; Docker builds/runtimes require server verification."
+}

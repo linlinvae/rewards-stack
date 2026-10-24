@@ -1,0 +1,6025 @@
+[
+  {
+    "text": "Microsoft Rewards Dashboard",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Skip to main content",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "🏅 Rewards Dashboard",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Connecting…",
+    "files": [
+      "public/index.html",
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Switch to dark mode",
+    "files": [
+      "public/index.html",
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Theme",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Dashboard sections",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Idle",
+    "files": [
+      "public/index.html",
+      "public/util.js",
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Start run",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Stop",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Restart",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "More actions",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Force stop (SIGKILL)",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Shut down control API",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "🔑 Login approval needed",
+    "files": [
+      "public/index.html"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Development",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Microsoft Rewards Dashboard:{0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#statusBadge",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#statusText",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#modeToggle",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#modeIcon",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#themeSelect",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#tabBar",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#tabPanels",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ctlPill",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ctlDetail",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#btnStart",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#btnStop",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#btnRestart",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#btnMore",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ctlMenu",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#btnForceStop",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#btnShutdown",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#loginCodesSection",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#loginCodesList",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#loginCodesAnnounce",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#footerStatus",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#footerScriptVersion",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#footerVersion",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "light",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "dark",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Switch to light mode",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "aria-label",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "change",
+    "files": [
+      "public/app.js",
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/logs.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "click",
+    "files": [
+      "public/app.js",
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/diagnostics.js",
+      "public/views/logs.js",
+      "public/views/overview.js",
+      "public/views/runs.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-tab]",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "keydown",
+    "files": [
+      "public/app.js",
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ArrowRight",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ArrowLeft",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#tab-btn-{0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "hashchange",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "aria-selected",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "tab--active",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#tab-panel-{0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "[{0}] refresh failed",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/events",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "open",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "state",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "log",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "codes",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "reset",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Control API restarted — reconnected.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "warn",
+    "files": [
+      "public/app.js",
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/diagnostics.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "status-live",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "status-warn",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "status-down",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "status-unknown",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Dashboard server unreachable",
+    "files": [
+      "public/app.js",
+      "public/api.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Bot backend offline",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Control API token rejected",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Running now",
+    "files": [
+      "public/app.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Connected",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Disconnected",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Running",
+    "files": [
+      "public/app.js",
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Microsoft Rewards Script:{0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "unknown",
+    "files": [
+      "public/app.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "idle",
+    "files": [
+      "public/app.js",
+      "public/views/overview.js",
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "pill {0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "pid {0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "started {0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}/{1} accounts",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} pts",
+    "files": [
+      "public/app.js",
+      "public/views/overview.js",
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "next run {0}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "last exit: code {0}{1}",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Ready",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Control API unavailable",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} sent.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "success",
+    "files": [
+      "public/app.js",
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/diagnostics.js",
+      "public/views/logs.js",
+      "public/views/overview.js",
+      "public/views/runs.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "error",
+    "files": [
+      "public/app.js",
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/diagnostics.js",
+      "public/views/logs.js",
+      "public/views/overview.js",
+      "public/views/runs.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "start",
+    "files": [
+      "public/app.js",
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Run started.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "stop",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Stop signal sent.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "restart",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Restart the bot? A run in progress will be stopped first.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Restarting…",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Force-kill the run (SIGKILL)? It gets no chance to clean up.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Force stop sent.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "shutdown",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Shut the control API down? The dashboard will go offline until you start it again on the bot host.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Shutdown sent.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "aria-expanded",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Escape",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "false",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Login approval needed for {0}: select number {1}. Expires in 60 seconds.",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "urgent",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Expires in {3}s",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "focus",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "resize",
+    "files": [
+      "public/app.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "application/json",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Content-Type",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Request failed ({0})",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "GET",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/summary",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/accounts?historyDays={0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/runs?limit={0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "&level={0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/logs?limit={0}{1}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/errors?limit={0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/login-codes",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/schedule",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "local",
+    "files": [
+      "public/api.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "PUT",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/cron?expr={0}",
+    "files": [
+      "public/api.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "?reveal=1",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/config{0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/config",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "PATCH",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/config/diff",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "POST",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/config/sync",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/diagnostics",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/diagnostics/{0}/{1}",
+    "files": [
+      "public/api.js",
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/sessions",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "DELETE",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/sessions/{0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/dashboard-accounts/{0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "/api/control/{0}",
+    "files": [
+      "public/api.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "&amp;",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "&lt;",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "&gt;",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "&quot;",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "class",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "short",
+    "files": [
+      "public/util.js",
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "numeric",
+    "files": [
+      "public/util.js",
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "2-digit",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "en-US",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "just now",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}m ago",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}h ago",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}d ago",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "en-CA",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "UTC",
+    "files": [
+      "public/util.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "year",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "month",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "day",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "info",
+    "files": [
+      "public/util.js",
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "div",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "toast-host",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "status",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "polite",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "toast toast--{0}",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "toast--out",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ":scope > .ticker-track-wrap",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ".ticker-track:not([aria-hidden])",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ".ticker-track[aria-hidden]",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ticker",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "span",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ticker-track-wrap",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ticker-track",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "is-ticker",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "(max-width: 768px)",
+    "files": [
+      "public/util.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "--ticker-duration",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "aria-hidden",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "true",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "pill-success",
+    "files": [
+      "public/util.js",
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Success",
+    "files": [
+      "public/util.js",
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Done",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "pill-error",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Error",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Crashed",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "pill-warn",
+    "files": [
+      "public/util.js",
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Interrupted",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Stopped",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "pill-running",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Starting",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Stopping",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "pill-pending",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Pending",
+    "files": [
+      "public/util.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "pill-idle",
+    "files": [
+      "public/util.js",
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No data yet.",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}: {1} points",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Point total over time",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "No runs recorded yet.",
+    "files": [
+      "public/charts.js",
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}: +{1} points{2}",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Points collected per day",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "heatmap-cell",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "heatmap-level-{0}",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "heatmap-future",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "heatmap-today",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "long",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "{0} +{1} pts Total {2}",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Week of {0}: +{1} pts",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "accum-gap--warn",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "accum-gap--bad",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Gap: {2} missed day{3}",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "accum-day--a",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "accum-day--b",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "accum-day--today",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "(today)",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{4}{5}: +{6} pts (total: {7})",
+    "files": [
+      "public/charts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Search",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Bonus search",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Read",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Check-in",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Claim reward",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Claim bonus",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "URL reward",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Visual search",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "App reward",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Punchcard",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Search activity",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Started ACCOUNT_{0} only ({1}).",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Removed {0} from the dashboard.",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Started {0}/{1} selected accounts.",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#accountsSelectedCount",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "{0}/{1} selected",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#accountsSelectAll",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#accountsRunSelected",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Starting…",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run selected",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Earnable",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "days unavailable",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} protection day{1} left",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "On",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Off",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "streak unavailable",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} day{1} current streak",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Configuration",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Configured in .env",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Yes",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "No — seen in logs only",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Geo locale",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Language",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "TOTP secret",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Set",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Not set",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Recovery email",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Proxy",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "(authenticated)",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "None",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Streak &amp; protection",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Success streak",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} run{1}",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Current streak",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Unavailable",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} day{1}",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Streak protection",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enabled",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Disabled",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Protection days remaining",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Protection status checked",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run history",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Runs recorded by the API",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Points collected (API history)",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Last duration",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "History points loaded",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "done",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js",
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stat-icon-check",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "running",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js",
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "starting",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stopping",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stat-icon-running",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "pending",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stat-icon-pending",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "crashed",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "interrupted",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stopped",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stat-icon-alert icon-alert-active",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stat-icon-idle",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "disabled",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/diagnostics.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Run only",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run only ACCOUNT_{2}",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "checked",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/config.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Include ACCOUNT_{0} in a batch run",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Select",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "acc-details-{0}",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Removing…",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Are you sure?",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Cancel",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Permanently remove this account and its history from the dashboard",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "The account must be idle to delete it",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Remove this account and its history from the dashboard",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Delete",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} day{1} left",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{1}; streak protection is {2}; {3}",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Protection {4} · {5}",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Collapse details",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Expand details",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ACCOUNT_{0}",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/diagnostics.js",
+      "public/views/overview.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "unconfigured",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "hidden",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Today",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#accountsContainer",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#accountsError",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No accounts configured or observed yet.",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "button[data-run-account]",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "input[data-select-account]",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-toggle-details]",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-arm-delete]",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-cancel-delete]",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-confirm-delete]",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "accounts",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/diagnostics.js",
+      "public/views/overview.js",
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Accounts",
+    "files": [
+      "public/views/accounts.js",
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Batch run",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Select all",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "0/0 selected",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Loading accounts configuration details…",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Accounts are configured in the bot’s",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": ".env",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ACCOUNT_N_*",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "). The control API exposes full local email addresses but never sends passwords, recovery addresses, TOTP secrets, or proxy credentials.",
+    "files": [
+      "public/views/accounts.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "***REDACTED***",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "object",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Core",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Headless browser",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run browser invisibly",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Error diagnostics",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Save error and unknown-login page diagnostics under diagnostics/",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Ensure streak protection",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Ensure streak protection is enabled",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Auto-claim punchcard rewards",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Auto-claim completed punchcard rewards",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Skip non-point tasks",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Skip tasks that award no points",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Local queries for ExploreOnBing",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Use the local query list for ExploreOnBing",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Workers",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Daily set",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete daily set",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Claim bonus points",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "More activities",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete \"more activities\"",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Punch cards",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete punchcards",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "App promotions",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete app promotions",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Desktop search",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Perform desktop searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Mobile search",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Perform mobile searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Bonus searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Farm bonus searches beyond the cap",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Daily check-in",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete daily check-in",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Read to earn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete Read-to-Earn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Activate search perk",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Activate the \"search Nx more\" perk when present (runs after the daily set)",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Activate the visual-search streak and perform visual searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Activities",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete URL reward activities",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ExploreOnBing",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Complete ExploreOnBing offers",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Search settings",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Scroll random results",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Scroll randomly on results",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Click random results",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Click random links",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run on zero points",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run searches even when no search points remain",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Parallel searching",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run searches in parallel",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Cluster search",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Cluster each main topic with Bing suggestions",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Experimental",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "API search",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Perform Bing searches over HTTP instead of driving a browser page",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "API ExploreOnBing",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Complete ExploreOnBing offers over HTTP instead of the browser",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Block media",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Block browser image and media requests to reduce traffic",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Edge browsing",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Report the 30-minute Edge browsing activity as a background HTTP task",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Logging",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Debug logs",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enable debug logging",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Console log filter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enable console log filtering",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Proxy query engine requests",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Ignore certificate errors",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Disable browser TLS certificate verification for intercept proxies",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhooks",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Discord webhook",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enable Discord webhook",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Telegram webhook",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enable Telegram webhook",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy webhook",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enable ntfy notifications",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhook log filter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Enable webhook log filtering",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Other settings",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "text",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Session path",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Directory to store browser sessions",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "sessions",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "number",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Clusters",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Number of concurrent account clusters",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Global timeout",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Timeout for all actions",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "30sec",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "delay",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Delay before next account",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "accountDelay.min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Minimum delay before starting the next configured account",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "1min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "accountDelay.max",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Maximum delay before starting the next configured account",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "3min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Max bonus searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Max bonus searches per run (when Bonus searches is on)",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Search result visit time",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Time to spend on each search result",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "10sec",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Delay between searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "searchSettings.searchDelay.min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Minimum delay between searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "searchSettings.searchDelay.max",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Maximum delay between searches",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Delay for reading",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "searchSettings.readDelay.min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Minimum delay for reading",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "searchSettings.readDelay.max",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Maximum delay for reading",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "tags",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Query sources",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Sources used to build the search query pool",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "e.g. google, rss.bbc",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Valid: google, wikipedia, wikirandom, hackernews, reddit, local, or rss.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "(e.g. rss.bbc, rss.googleNews).",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "select",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Console filter mode",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Filter mode (whitelist/blacklist)",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "whitelist",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Whitelist",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "blacklist",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Blacklist",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Console filter levels",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Log levels to filter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "e.g. error, warn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "debug",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Console filter keywords",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Keywords to filter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "e.g. starting account",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Console filter regex patterns",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Regex patterns for filtering",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "e.g. ^Error:",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Discord webhook URL",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "https://discord.com/api/webhooks/...",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Telegram bot token",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Telegram chat ID",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Telegram chat id",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy server URL",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy topic",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy auth token",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy authentication token",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy notification title",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Notification title",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Microsoft-Rewards-Script",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "ntfy tags",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Notification tags",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "e.g. bot, notify",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ntfy priority",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Notification priority (1-5)",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "1 – Min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "2 – Low",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "3 – Default",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "4 – High",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "5 – Max",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhook filter mode",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhook filter levels",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Log levels to send",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhook filter keywords",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhook filter regex patterns",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "starting account",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "select number",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "collected",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "boolean",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#cfgEditor",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "notice notice--{0}",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#cfgSettings",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "input[type=\"checkbox\"][data-path]",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "dl-{0}",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "string",
+    "files": [
+      "public/views/config.js",
+      "lib/cron.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Hidden — tick “Reveal secrets” below to edit",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "min=\"{0}\"",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "step=\"{0}\"",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "🔒 Hidden until secrets are revealed",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "data-numeric=\"1\"",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "selected",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "tag-chip--mono",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Remove {3}",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "None set",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Add value…",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "list=\"{0}\"",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Add",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "min",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "max",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "to",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "on",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "before enabling a push-notification webhook like ntfy, or you’ll get a notification for every log line, including debug noise. With it enabled, only account start, 2FA codes, and account completion summaries are delivered. Use whitelist mode and the “Webhook filter keywords” field below to customize exactly which notifications you receive.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Apply recommended filter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "whitelist · starting account, select number, collected",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "input.input[data-path]",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Enter a valid number.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "blur",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Enter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "select.input[data-path]",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "[data-tags-path]",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "input,button",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "{0} → {1} item{2}",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "[data-tag-remove]",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ".tag-add-input",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ".tag-add-btn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Already in the list.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#cfgWebhookFilterTipBtn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Applying…",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "recommended webhook filter",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Config writes are disabled on the control API. Set",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "API_ALLOW_CONFIG_WRITE=true",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "in the bot’s environment and restart it.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "The bot rejected this config:",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "cfgNotice",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Saved: {0}. Applies on the next run.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#cfgDrift",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "notice notice--warn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Config update available",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "— {0} field{1} added in a recent script update:",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Sync now",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Adds the missing fields with their defaults. Your existing values are never changed.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#cfgSyncBtn",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Syncing…",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Synced {0} field{1}. Applies on the next run.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Already up to date.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#cfgReveal",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#cfgRedacted",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "config",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Config",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Settings",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Saves each change automatically. Applies on the next run.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Raw config",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Only the fields you actually change are sent",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Reveal secrets",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Webhook URLs and tokens are shown as",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": ". Saving never overwrites them — only the fields you edit are sent. To see and edit them, set",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "API_ALLOW_CONFIG_REVEAL=true",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "on the control API and tick “Reveal secrets”.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "config.json",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Save changes",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Discard unsaved edits and re-fetch config.json from the bot.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Reload from API",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#cfgReload",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "The control API refused to reveal secrets. Set",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "(and an",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "API_TOKEN",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ") on it to enable this.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#cfgSave",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Not valid JSON: {0}",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Nothing changed.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "That change would write",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "over a real secret. Enable",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "on the control API and tick “Reveal secrets” first.",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} field{1}",
+    "files": [
+      "public/views/config.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#diagMeta",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "{0} capture{1} in {2}",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#diagList",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No error captures — nothing has gone wrong badly enough to be worth a screenshot. Captures need",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "errorDiagnostics",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "enabled in the bot’s config.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "screenshot",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "error.txt",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "dump.html",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No error text captured.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "No error.txt in this capture.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "screenshot.png",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Screenshot captured when {2} failed",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Download dump.html",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "button[data-diag]",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Clear stored sessions for {0}? This logs the account out immediately — it will need to sign back in (and re-approve 2FA if used) on its next run.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Sessions cleared for {0}.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#sessionCardList",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Loading…",
+    "files": [
+      "public/views/diagnostics.js",
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "No configured accounts found.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} · updated {1}",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "No stored sessions",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "The bot must be idle to clear a session",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Nothing stored for this account yet",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "title=\"{0}\"",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Clearing…",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Clear sessions",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "button[data-clear-session]",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "diagnostics",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Diagnostics",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Session management",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Clearing sessions can fix most common login issues",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Clearing a session logs that account out immediately. It will need to sign in again — and re-approve 2FA if used — on its next run. Only clear a session if you're actually seeing login problems for that account.",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Error captures",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Refresh",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#diagRefresh",
+    "files": [
+      "public/views/diagnostics.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "all",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#logBox",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No log lines match the current filter.",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#logCount",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "{0} line{1} buffered",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#logPause",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Resume ({0} new)",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Resume",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Pause",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "btn-primary",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": ".empty-note",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "beforeend",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "text/plain",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "rewards-log-{0}.txt",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "logs",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Logs",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Live logs",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "0 lines buffered",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Level",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "All",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Info and up",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Warnings and up",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Errors only",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Filter lines…",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Autoscroll",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Load 2000",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Download",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Clear",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Waiting for log lines…",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#logLevel",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#logSearch",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "input",
+    "files": [
+      "public/views/logs.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#logAutoscroll",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#logClear",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#logDownload",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#logMore",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Buffer filled to {0} lines.",
+    "files": [
+      "public/views/logs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "rewards_dashboard_view_mode",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "accum",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "stat-value-sm",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "chip-sm-wrap",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Not scheduled",
+    "files": [
+      "public/views/overview.js",
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ok",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "next account in ~{0}s{1}",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#statGrid",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "statAccounts",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "profiles",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Accounts tracked",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "statCombined",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "points",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Combined balance",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "statLastGained",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Points earned last run",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "statLastRun",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "timestamp",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Last run",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "statErrors",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "errors",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Accounts in error",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "statSchedule",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Schedule (2 active)",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Schedule",
+    "files": [
+      "public/views/overview.js",
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#overviewHeroRows",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ovwAccountsError",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No history yet",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "heatmap",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "+{0} pts today",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Running…",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "No run today",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}{1}{2} pts",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Change in points since last check-in from all sources",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Running… {0}",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Last run duration",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Last Run: {0}{1}{2}",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Points",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Trend",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": ".accum-track",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-trend]",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ovwTrendSection",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "smooth",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "nearest",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ovwTrendName",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#ovwTrendChart",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No point history recorded for this account yet.",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#runProgressBox",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#run-progress-heading",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#currentRunMeta",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#currentRunBar",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Run in progress",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}/{1} done",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} accounts seen",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} running",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} pending",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} cluster{1}",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} points",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "aria-valuenow",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "overview",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Overview",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "seg-btn--active",
+    "files": [
+      "public/views/overview.js",
+      "public/views/runs.js",
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Summary",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Accounts Overview",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Timeline",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Heatmap",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Point total —",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Every recorded balance, oldest to newest",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#ovwViewToggle .seg-btn",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "summary",
+    "files": [
+      "public/views/overview.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#runsChartMeta",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "{0} points over {1} days · {2} day{3} with a run",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#runsChart",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No point history recorded yet.",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#runsBody",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Exit 0",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Exit {0}",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#exitList",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#exitsError",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "The control API hasn’t recorded any runs yet. Runs it launches itself (manually or on a schedule) show up here.",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "· {0} failed",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{4} pts · {5} ok{6}",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "button[data-exit]",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "runs",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Runs",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Points per day",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Date range",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Parsed from the bot’s own log output",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Status",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Started",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Duration",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Gained",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "New total",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Version",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Process exits",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "How each run the control API launched actually ended",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "button[data-days]",
+    "files": [
+      "public/views/runs.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Daily at 09:00",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Twice daily (09:00, 21:00)",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Every 6 hours",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Every 12 hours",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Weekdays at 08:00",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "This dashboard",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Bot container (Docker cron)",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#schedEnabled",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedCron",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedSkip",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "input[data-exclude-account]:checked",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedMisfire",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedGrace",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedSave",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedTargetRemote",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedTargetLocal",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "remote",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "aria-pressed",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedDualWarning",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedTargetNote",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Cron runs inside the bot container itself — it fires even if this dashboard is offline, and simply doesn't fire while the container is stopped (so there's no missed-run policy to configure).",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "This scheduler runs inside the dashboard's own process — it needs the dashboard container to be up to fire, but can recover a missed run according to the policy below.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#schedMisfireGroup",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedFormBody",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedUnavailable",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "skip",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedGraceField",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "grace-period",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedNext",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedLast",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedResult",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Not tracked here — see the Runs tab.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#schedExcluded",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedTz",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "UTC{0}{1}:{2}",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedAccounts",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "No configured accounts are available.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Exclude",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "ACCOUNT_{2}",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "input[data-exclude-account]",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedDesc",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Enter a 5-field cron expression.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "sched-desc",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "sched-desc--ok",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "sched-desc--bad",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "sched-desc {0}",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "schedule",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Automatic runs",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Two schedulers are available — pick the one that fits your setup",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Scheduler location",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "⚠ Both schedulers are currently enabled — runs may double-fire. Disable one of them below.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "— fire runs on the schedule below",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "If a run was missed while the dashboard was offline",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Skip it",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run once after startup",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Run only within a grace period",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Grace period in minutes",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Excluded accounts",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Loading configured accounts…",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Cron expression",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Skip if already running",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "— don’t start a second run on top of one in progress",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Save schedule",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Discard changes",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Could not read this scheduler’s current state. It will refresh automatically — if this persists, check that the bot's Control API is reachable and API_ALLOW_SCHEDULE_WRITE is set if you want to edit it from here.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Current state",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Next run",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Last triggered",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Last result",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Timezone",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Times are evaluated in the scheduler’s own timezone (dashboard: its",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "TZ",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "; bot container: its own",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "). If a scheduler's host was offline, the local scheduler applies its missed-run policy at startup — the container scheduler simply didn’t fire.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#schedPresets",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-cron]",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "#schedTargetToggle",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "button[data-target]",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Discard unsaved changes and switch scheduler?",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "#schedReset",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "A scheduled run must include at least one account.",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Schedule armed ({0}).",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Schedule disabled ({0}).",
+    "files": [
+      "public/views/schedule.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "use strict",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "Sun",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Mon",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Tue",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Wed",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Thu",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Fri",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Sat",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "AM",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "PM",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": false
+  },
+  {
+    "text": "every {0} day(s) of the week",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "weekdays",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "weekends",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Every {0} minute{1}",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Every {0} hour{1}",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} at {1}",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "Daily at {0}",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0} and {1}",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  },
+  {
+    "text": "{0}, and {1}",
+    "files": [
+      "lib/cron.js"
+    ],
+    "translated": true
+  }
+]

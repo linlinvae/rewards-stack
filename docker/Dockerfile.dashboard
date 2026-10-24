@@ -1,0 +1,21 @@
+ARG DASHBOARD_BASE_IMAGE
+FROM ${DASHBOARD_BASE_IMAGE}
+RUN node -e "const fs=require('fs'),c=require('crypto');if(c.createHash('sha256').update(fs.readFileSync('/usr/src/rewards-dashboard/public/version.js')).digest('hex')!=='cacafeaf8cf52a979b04060944950124beb1a6e6b85f22841c0b4c2699172362')throw Error('Chinese UI requires the pinned Dashboard v1.3.9 image');"
+COPY --chmod=644 docker/redact.mjs /stack/redact.mjs
+COPY --chmod=644 docker/browser-startup-guard.mjs /stack/browser-startup-guard.mjs
+COPY --chmod=644 scripts/probe.mjs /stack/probe.mjs
+COPY --chmod=644 scripts/snapshot.mjs /stack/snapshot.mjs
+COPY --chmod=644 docker/dashboard-start.mjs /stack/dashboard-start.mjs
+COPY --chmod=644 docker/install-account-ui.mjs /stack/install-account-ui.mjs
+RUN node /stack/install-account-ui.mjs dashboard
+COPY --chmod=644 docker/install-web-login.mjs /stack/install-web-login.mjs
+RUN node /stack/install-web-login.mjs dashboard
+COPY --chmod=644 docker/pushplus.cjs docker/notification-details.cjs docker/install-pushplus.mjs /stack/
+RUN node /stack/install-pushplus.mjs
+COPY --chmod=644 docker/install-rewards-reliability.mjs /stack/
+RUN node /stack/install-rewards-reliability.mjs dashboard
+COPY --chmod=644 dashboard-zh-CN/public/ /usr/src/rewards-dashboard/public/
+RUN chmod 755 /stack \
+    && find /usr/src/rewards-dashboard/public -type d -exec chmod 755 {} +
+COPY --chmod=644 dashboard-zh-CN/lib/cron.js /usr/src/rewards-dashboard/lib/cron.js
+CMD ["node", "/stack/dashboard-start.mjs"]

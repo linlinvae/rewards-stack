@@ -1,0 +1,8 @@
+.account-create-toolbar{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin-bottom:1rem;padding:1rem 1.25rem}
+.account-create-toolbar h2{margin:0 0 .4rem;font-size:1.1rem}.account-create-toolbar p{margin:0}.account-create-toolbar>.btn{flex-shrink:0}
+.account-create-dialog{box-sizing:border-box;width:min(540px,calc(100% - 28px));max-height:calc(100dvh - 32px);overflow:auto;border:1px solid var(--border,#d5dde6);border-radius:16px;padding:1.5rem;color:var(--text,#142332);background:var(--surface,#fff);box-shadow:0 20px 60px #0003}
+.account-create-dialog::backdrop{background:#13273e66;backdrop-filter:blur(2px)}
+.account-create-dialog form{margin:0}.account-create-heading{display:flex;justify-content:space-between;align-items:center;gap:1rem}.account-create-heading h2{margin:0;font-size:1.3rem}.account-create-heading>.btn{padding:.25rem .7rem;font-size:1.4rem}
+.account-create-dialog .hint{line-height:1.6}.account-create-field{display:block;font-weight:600;margin:1rem 0 .4rem}.account-create-dialog .input{box-sizing:border-box;width:100%;padding:.7rem;border:1px solid var(--border,#cfd8e3);border-radius:8px;color:inherit;background:var(--input-bg,transparent);font:inherit}
+.account-create-dialog details{margin-top:1.2rem}.account-create-dialog summary{cursor:pointer}.account-create-options{display:grid;grid-template-columns:1fr 1fr;gap:1rem}.account-create-actions{display:flex;justify-content:flex-end;gap:.65rem;margin-top:1.5rem}.account-create-dialog .notice{margin-top:1rem}
+@media(max-width:480px){.account-create-dialog{padding:1rem}.account-create-toolbar{align-items:flex-start;flex-direction:column}.account-create-options{grid-template-columns:1fr;gap:0}.account-create-actions>.btn{flex:1}}

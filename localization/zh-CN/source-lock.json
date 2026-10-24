@@ -1,0 +1,19 @@
+{
+  "baseImage": "ghcr.io/mgrimace/rewards-dashboard@sha256:b0363471e6a17323dc8a3a61616c4c8e4f47a8e4cdd897e9b84b304922b95e59",
+  "version": "v1.3.9",
+  "hashes": {
+    "public/index.html": "c50b281725b74ce75b1cf7a7308d35c55aa5bdfece6864fe519b5787ad566b76",
+    "public/app.js": "5900c1c25321bba26572ea4ab5cea22f555c44865ff8504b9750a530b267ac69",
+    "public/api.js": "5ed7ee4e43eaf44f233c48ebb84a069970c8ffa674a3119d0ff75757aa2cefd9",
+    "public/util.js": "c07570a5f3d6423e2abfe547fc72c000ab59b9acc339c4d710fbe03cd1a12923",
+    "public/charts.js": "a863b17629c78a1d33fa63dd836d40fa3668c624d191894097443da16b894e0e",
+    "public/views/accounts.js": "494fc7617f522c28d5a1bc0c111b6336a03346a41f876b493af6abe070cbe881",
+    "public/views/config.js": "46795a1ce240f6ec4b7c36fffb8bf41f14f87b314b42e6b603ab5fd801ff52ce",
+    "public/views/diagnostics.js": "aa181d887f31f93b536ff39776a1aead1372fe3340f9dad99da0fa3a61dd294d",
+    "public/views/logs.js": "98b8602546ca890e190b70a84d2c454e6472b5f43b38e02d96f629b8412eb59f",
+    "public/views/overview.js": "878ef94d52b9e61fb76048415b94fe73f63a295ec871754ba7576ca1746d5a7f",
+    "public/views/runs.js": "69d9397bd2308b6edbcb03299826279b0937b3342858f8b0593b5b8e88ee988c",
+    "public/views/schedule.js": "d52db4ba98addc6e8cb6b31f4bb3cca65ec7e84db36f895a7904d2b0c23bd19f",
+    "lib/cron.js": "c2187c35dbb4bc1a034a24c7bbc77f9cabd516d0cdd32de37499096abb7ed092"
+  }
+}

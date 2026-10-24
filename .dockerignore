@@ -1,0 +1,9 @@
+**
+!docker/
+!docker/**
+!scripts/
+!scripts/probe.mjs
+!scripts/snapshot.mjs
+!scripts/nas-rewards-interface-check.cjs
+!dashboard-zh-CN/
+!dashboard-zh-CN/**

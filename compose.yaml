@@ -1,0 +1,138 @@
+name: ${COMPOSE_PROJECT_NAME:-rewards-stack}
+
+x-logging: &logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "5"
+
+services:
+  script:
+    image: rewards-stack-script:${SCRIPT_STACK_VERSION:-20261023-reliability}
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.script
+      args:
+        SCRIPT_BASE_IMAGE: ${SCRIPT_BASE_IMAGE:-ghcr.io/thenetsky/microsoft-rewards-script@sha256:e0fa6fbb8cf3cb5b327ab1e54c25e83266ccb450e543db69fc7cbc828e6826e2}
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 30s
+    # Keep browser work below one CPU core on the shared 2-core server.
+    cpus: 0.75
+    mem_limit: 768m
+    mem_reservation: 256m
+    # Total RAM + swap; permits at most another 768 MiB of swap.
+    memswap_limit: 1536m
+    pids_limit: 256
+    shm_size: "1gb"
+    env_file: .env
+    environment:
+      API_MODE: "true"
+      API_HOST: "0.0.0.0"
+      API_PORT: "3010"
+      API_TOKEN: ${API_TOKEN:?Run scripts/init.sh first}
+      API_ALLOW_SCHEDULE_WRITE: "false"
+      API_ALLOW_ENV_OVERRIDES: "false"
+      API_ALLOW_CONFIG_REVEAL: "false"
+      API_ALLOW_CONFIG_WRITE: ${API_ALLOW_CONFIG_WRITE:-false}
+      STACK_ALLOW_ACCOUNT_CREATE: ${STACK_ALLOW_ACCOUNT_CREATE:-true}
+      API_CORS_ORIGIN: "http://127.0.0.1:8890"
+      CRON_SCHEDULE: ""
+      RUN_ON_START: "false"
+      SCHEDULE_FILE: /run/rewards-stack/no-schedule.json
+      TZ: ${TZ:-Asia/Jakarta}
+      NODE_OPTIONS: "--import=/stack/redact.mjs --disable-warning=ExperimentalWarning"
+      STACK_ROLE: script
+      CONFIG_DEBUG_LOGS: "false"
+      CONFIG_CONTINTUE_ON_BOT_WARNING: "false"
+      CONFIG_PROXY_IGNORE_CERTIFICATE_ERRORS: "false"
+      CONFIG_EXPERIMENTAL_API_SEARCH: "false"
+      CONFIG_EXPERIMENTAL_API_SEARCH_ON_BING: "false"
+      CONFIG_EXPERIMENTAL_EDGE_BROWSING: "false"
+    volumes:
+      - ./config:/usr/src/microsoft-rewards-script/config
+      - ./sessions:/usr/src/microsoft-rewards-script/sessions
+      - ./data/diagnostics:/usr/src/microsoft-rewards-script/diagnostics
+    expose:
+      - "3010"
+    networks: [rewards]
+    healthcheck:
+      test: ["CMD", "node", "/stack/probe.mjs", "script"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+    security_opt: ["no-new-privileges:true"]
+    logging: *logging
+
+  dashboard:
+    image: rewards-stack-dashboard:${DASHBOARD_STACK_VERSION:-20261023-reliability}
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.dashboard
+      args:
+        DASHBOARD_BASE_IMAGE: ${DASHBOARD_BASE_IMAGE:-ghcr.io/mgrimace/rewards-dashboard@sha256:b0363471e6a17323dc8a3a61616c4c8e4f47a8e4cdd897e9b84b304922b95e59}
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 15s
+    cpus: 0.25
+    mem_limit: 128m
+    mem_reservation: 64m
+    memswap_limit: 256m
+    pids_limit: 64
+    user: "1000:1000"
+    read_only: true
+    tmpfs: ["/tmp:rw,noexec,nosuid,size=64m"]
+    ports:
+      - "127.0.0.1:8890:8890"
+    environment:
+      CONTROL_API_URL: "http://script:3010"
+      CONTROL_API_TOKEN: ${API_TOKEN:?API_TOKEN required}
+      DASHBOARD_USERNAME: ${DASHBOARD_USERNAME:?Dashboard username required}
+      DASHBOARD_PASSWORD: ${DASHBOARD_PASSWORD:?Dashboard password required}
+      TZ: ${TZ:-Asia/Jakarta}
+      PORT: "8890"
+      DATA_DIR: /data
+      POLL_MS: "5000"
+      NODE_OPTIONS: "--import=/stack/redact.mjs --disable-warning=ExperimentalWarning"
+      STACK_ROLE: dashboard
+    volumes:
+      - ./data/dashboard:/data
+    networks: [rewards]
+    depends_on:
+      script:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "node", "/stack/probe.mjs", "dashboard"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    logging: *logging
+
+  maintenance:
+    profiles: [tools]
+    image: rewards-stack-dashboard:${DASHBOARD_STACK_VERSION:-20261023-reliability}
+    user: "0:0"
+    entrypoint: ["node"]
+    network_mode: none
+    environment:
+      NODE_OPTIONS: "--disable-warning=ExperimentalWarning"
+    volumes:
+      - ./config:/source/config:ro
+      # SQLite must be able to create WAL/SHM metadata after a clean close.
+      # snapshot.mjs opens source databases readOnly and never edits rows.
+      - ./sessions:/source/sessions
+      - ./data/dashboard:/source/data/dashboard:ro
+      - ./backups:/backups
+    read_only: true
+    cap_drop: [ALL]
+    cap_add: [DAC_READ_SEARCH]
+    security_opt: ["no-new-privileges:true"]
+    logging: *logging
+
+networks:
+  rewards:
+    driver: bridge

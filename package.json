@@ -1,0 +1,30 @@
+{
+  "name": "rewards-stack-deployment",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/integration.mjs",
+    "localize": "node scripts/localize-dashboard.mjs",
+    "test:zh-CN": "node tests/zh-CN.test.mjs",
+    "test:startup-guard": "node --test tests/browser-startup-guard.test.mjs",
+    "test:accounts": "node --test tests/account-manager.test.mjs",
+    "test:web-login": "node --test tests/login-broker.test.mjs",
+    "test:pushplus": "node --test --test-isolation=none tests/pushplus.test.mjs",
+    "test:unit": "node --test --test-isolation=none tests/account-manager.test.mjs tests/login-broker.test.mjs tests/pushplus.test.mjs tests/notification-details.test.mjs tests/interface-probe-r2.test.mjs tests/quota-source-parser.test.mjs",
+    "test:reliability": "node --test tests/rewards-reliability.test.mjs",
+    "test:publication": "node --test --test-isolation=none tests/publication.test.mjs",
+    "audit:public": "node scripts/check-publication.mjs",
+    "package:public": "node scripts/package-public.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "yaml": "2.9.1",
+    "@playwright/test": "1.64.1",
+    "acorn": "8.19.0",
+    "acorn-walk": "8.3.5",
+    "parse5": "8.0.1"
+  },
+  "license": "GPL-3.0-only"
+}
