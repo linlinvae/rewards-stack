@@ -44,5 +44,5 @@ with tarfile.open(archive,'r:gz') as t:
                     finally: db.close()
         print('Extracted and SQLite verified for review: '+target+'/'+root)
     elif mode: raise SystemExit('Only --extract is supported; live data is never overwritten')
-print('Live services and files unchanged. Follow README_DEPLOY.md to stop, preserve current directories, and restore reviewed files manually.')
+print('Live services and files unchanged. Follow docs/DEPLOYMENT.md to stop, preserve current directories, and restore reviewed files manually.')
 PY

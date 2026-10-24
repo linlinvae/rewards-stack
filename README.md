@@ -24,7 +24,7 @@
 
 ## 首次部署
 
-服务端使用 Linux、Docker Engine、Docker Compose v2.24+、Bash、Python 3、Git、OpenSSL 和常用系统工具。开发测试使用 Node.js 24+。请先阅读 [完整部署说明](README_DEPLOY.md)，尤其是资源限制、网络访问和已有数据处理。
+服务端使用 Linux、Docker Engine、Docker Compose v2.24+、Bash、Python 3、Git、OpenSSL 和常用系统工具。开发测试使用 Node.js 24+。请先阅读 [完整部署说明](docs/DEPLOYMENT.md)，尤其是资源限制、网络访问和已有数据处理。
 
 将仓库源码放入一个**新建的空部署目录**，在该目录执行：
 
@@ -53,17 +53,19 @@ ssh -N -L 8890:127.0.0.1:8890 your-user@your-server
 
 ## 文档
 
+完整导航见 [文档目录](docs/README.md)，详细说明统一放在 `docs/`。文档中的命令均从仓库或部署目录根目录执行。
+
 | 内容 | 文档 |
 | --- | --- |
-| 部署、登录准备、调度、备份与恢复 | [README_DEPLOY.md](README_DEPLOY.md) |
-| NAS 部署注意事项 | [README_NAS.md](README_NAS.md) |
-| 账号删除及会话保留 | [ACCOUNT_DELETE.md](ACCOUNT_DELETE.md) |
-| 网页人工验证输入 | [WEB_LOGIN.md](WEB_LOGIN.md) |
-| 微信通知和账号分发 | [README_PUSHPLUS.md](README_PUSHPLUS.md) |
-| 额度识别与异常积分修复 | [README_RELIABILITY.md](README_RELIABILITY.md) |
-| 开发、测试与验证边界 | [docs/TESTING.md](docs/TESTING.md) |
-| 公开内容检查与源码打包 | [docs/PUBLISHING.md](docs/PUBLISHING.md) |
-| 许可证及上游归属 | [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) |
+| 部署、登录准备、调度、备份与恢复 | [部署指南](docs/DEPLOYMENT.md) |
+| NAS 部署注意事项 | [NAS 部署](docs/NAS.md) |
+| 账号删除及会话保留 | [账号删除](docs/ACCOUNT_DELETE.md) |
+| 网页人工验证输入 | [网页验证](docs/WEB_LOGIN.md) |
+| 微信通知和账号分发 | [PushPlus 通知](docs/PUSHPLUS.md) |
+| 额度识别与异常积分修复 | [额度与异常处理](docs/RELIABILITY.md) |
+| 开发、测试与验证边界 | [开发与测试](docs/TESTING.md) |
+| 公开内容检查与源码打包 | [公开检查与打包](docs/PUBLISHING.md) |
+| 许可证及上游归属 | [许可证与第三方来源](THIRD_PARTY_NOTICES.md) |
 
 ## 目录
 
@@ -73,7 +75,7 @@ dashboard-zh-CN/         随仓库提供的固定版本中文界面
 localization/zh-CN/      翻译词典、生成逻辑与源文件哈希
 scripts/                 初始化、部署、备份恢复和公开检查工具
 tests/                   模拟账号与隔离服务测试
-docs/                    开发和发布说明
+docs/                    部署、功能、开发和发布说明
 LICENSES/                保留的第三方许可证
 UPSTREAM_LOCK.json       上游版本锁定记录
 ```
@@ -88,4 +90,4 @@ UPSTREAM_LOCK.json       上游版本锁定记录
 
 ## 许可证
 
-本项目新增代码按 [GNU GPL v3.0](LICENSE) 发布；上游代码及其衍生文件保留原许可证与版权归属。Dashboard 的 MIT 许可全文见 [LICENSES/rewards-dashboard-MIT.txt](LICENSES/rewards-dashboard-MIT.txt)。完整范围、依赖说明和发布注意事项见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+本项目新增代码按 [GNU GPL v3.0](LICENSE) 发布；上游代码及其衍生文件保留原许可证与版权归属。Dashboard 的 MIT 许可全文见 [LICENSES/rewards-dashboard-MIT.txt](LICENSES/rewards-dashboard-MIT.txt)。完整范围、依赖说明和发布注意事项见 [许可证与第三方来源](THIRD_PARTY_NOTICES.md)。

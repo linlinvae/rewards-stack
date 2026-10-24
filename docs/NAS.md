@@ -1,10 +1,12 @@
 # NAS 部署注意事项
 
+[返回首页](../README.md) · [文档目录](README.md)
+
 本仓库使用标准 Docker Compose，不依赖某一台 NAS 的地址、用户名、1Panel 端口或临时 SSH 授权。历史机器专用迁移、授权及热更新脚本只保留在本地，不随仓库公开。
 
 ## 新部署
 
-在 NAS 上选择一个新的空目录，放入本仓库公开源码，然后按 [部署说明](README_DEPLOY.md) 运行初始化、编辑 `.env`、构建及健康检查。`init.sh` 只允许在目标 Linux 主机以 root 初始化，并拒绝覆盖已有 `.env`。
+在 NAS 上选择一个新的空目录，放入本仓库公开源码，然后按 [部署说明](DEPLOYMENT.md) 运行初始化、编辑 `.env`、构建及健康检查。`init.sh` 只允许在目标 Linux 主机以 root 初始化，并拒绝覆盖已有 `.env`。
 
 NAS 需要可用的 Docker Compose v2.24+、Bash、Python 3、Git、OpenSSL 等工具。先核对 CPU 架构及基础镜像支持；镜像能拉取不代表浏览器已在该架构验证。面板容器使用 UID/GID 1000，持久化目录权限应按部署文档设置，不要使用 `chmod 777`。
 
@@ -36,4 +38,4 @@ ssh -N -L 8890:127.0.0.1:8890 your-user@your-nas
 
 日常操作使用 `scripts/healthcheck.sh`、`scripts/backup.sh` 及 `scripts/restore.sh`。任何更新前先暂停计划、确认空闲并保留回滚材料。历史升级包与当前源码归档不是同一种安装入口；不要混用。
 
-开发模拟测试见 [docs/TESTING.md](docs/TESTING.md)。Docker 构建、重建持久化、NAS 文件权限、反向代理和真实收件效果须在目标环境分别确认。原始验收报告、截图、服务器信息及面板登录文件不包含在公开仓库。
+开发模拟测试见 [docs/TESTING.md](TESTING.md)。Docker 构建、重建持久化、NAS 文件权限、反向代理和真实收件效果须在目标环境分别确认。原始验收报告、截图、服务器信息及面板登录文件不包含在公开仓库。

@@ -1,6 +1,8 @@
 # Microsoft Rewards 一体化部署说明
 
-本仓库提供固定版本的中文集成源码及部署扩展。首次部署没有账号、没有启用计划，不会自动执行 Rewards 任务。开发验证方式及边界见 [docs/TESTING.md](docs/TESTING.md)；私人服务器验收记录不随仓库公开。
+[返回首页](../README.md) · [文档目录](README.md)
+
+本仓库提供固定版本的中文集成源码及部署扩展。首次部署没有账号、没有启用计划，不会自动执行 Rewards 任务。开发验证方式及边界见 [docs/TESTING.md](TESTING.md)；私人服务器验收记录不随仓库公开。
 
 ## 架构与版本
 
@@ -293,4 +295,4 @@ sudo bash scripts/deploy.sh --existing
 
 Docker、Linux 实际挂载权限、开机启动、1Panel 管理和容器重新创建仍需服务器验收。真实账号登录、MFA、积分是否被微软认可、会话跨主机可用性都需人工验证。第三方代码正常退出或面板积分显示并不代表微软保证奖励有效；自动化搜索可能不计积分，并可能触发限制或账号停用。不要绕过 CAPTCHA、MFA、风控或反作弊警告。
 
-本地开发、固定镜像提取及各项模拟测试步骤见 [docs/TESTING.md](docs/TESTING.md)。测试不使用真实账号执行 Rewards 搜索。
+本地开发、固定镜像提取及各项模拟测试步骤见 [docs/TESTING.md](TESTING.md)。测试不使用真实账号执行 Rewards 搜索。

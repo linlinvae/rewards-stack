@@ -1,8 +1,7 @@
 // Publication policy applies even to files added with git add -f.
 export const publicRootFiles = new Set([
   '.gitignore', '.gitattributes', '.dockerignore', '.env.example',
-  'README.md', 'README_DEPLOY.md', 'README_NAS.md', 'README_PUSHPLUS.md',
-  'README_RELIABILITY.md', 'ACCOUNT_DELETE.md', 'WEB_LOGIN.md',
+  'README.md',
   'LICENSE', 'THIRD_PARTY_NOTICES.md', 'UPSTREAM_LOCK.json',
   'compose.yaml', 'compose.source.yaml', 'package.json', 'package-lock.json',
 ]);
